@@ -1,0 +1,44 @@
+{
+  "questoes":[
+    {
+      "dicas":["Numero","Impar","Menor que 2, maior que 0"],
+      "resposta":"1"
+    },
+    {
+      "dicas":["Numero","Par","Menor que 3, maior que 1"],
+      "resposta":"2"
+    },
+    {
+      "dicas":["Numero","Impar","Menor que 4, maior que 2"],
+      "resposta":"3"
+    },
+    {
+      "dicas":["Numero","Par","Menor que 5, maior que 3"],
+      "resposta":"4"
+    },
+    {
+      "dicas":["Numero","Impar","Menor que 6, maior que 4"],
+      "resposta":"5"
+    },
+    {
+      "dicas":["Numero","Par","Menor que 7, maior que 5"],
+      "resposta":"6"
+    },
+    {
+      "dicas":["Numero","Impar","Menor que 8, maior que 6"],
+      "resposta":"7"
+    },
+    {
+      "dicas":["Numero","Par","Menor que 9, maior que 7"],
+      "resposta":"8"
+    },
+    {
+      "dicas":["Numero","Impar","Menor que 10, maior que 8"],
+      "resposta":"9"
+    },
+    {
+      "dicas":["Numero","Par","Menor que 11, maior que 9"],
+      "resposta":"10"
+    }
+  ]
+}
